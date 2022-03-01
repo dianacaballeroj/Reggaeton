@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Reggaeton", "Reggaeton\Reggaeton.rptproj", "{D89FFDB0-86A1-4A42-9F8A-7D184EE7A3EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D89FFDB0-86A1-4A42-9F8A-7D184EE7A3EF}.Debug|Default.ActiveCfg = Debug
+		{D89FFDB0-86A1-4A42-9F8A-7D184EE7A3EF}.Debug|Default.Build.0 = Debug
+		{D89FFDB0-86A1-4A42-9F8A-7D184EE7A3EF}.Debug|Default.Deploy.0 = Debug
+		{D89FFDB0-86A1-4A42-9F8A-7D184EE7A3EF}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{D89FFDB0-86A1-4A42-9F8A-7D184EE7A3EF}.DebugLocal|Default.Build.0 = DebugLocal
+		{D89FFDB0-86A1-4A42-9F8A-7D184EE7A3EF}.Release|Default.ActiveCfg = Release
+		{D89FFDB0-86A1-4A42-9F8A-7D184EE7A3EF}.Release|Default.Build.0 = Release
+		{D89FFDB0-86A1-4A42-9F8A-7D184EE7A3EF}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C9495A2-EE6E-4B98-962E-77B54B8D7CC6}
+	EndGlobalSection
+EndGlobal
